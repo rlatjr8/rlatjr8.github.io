@@ -23,23 +23,23 @@ entries:
   - title: Information
     output: web, pdf
     folderitems:
-    - title: Information home
-      url: /info
+    - title: Information menu
       output: web
 
-    - title: Sample 1
+     folderitems:	
+    - title: go naver
       url: /p1_sample1.html
       output: web, pdf
 
-    - title: Sample 2
+    - title: go daum
       url: /p1_sample2.html
       output: web, pdf
 
-    - title: Sample 3
+    - title: go nate
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading
+  - title: other..
     output: web, pdf
 
     folderitems:
