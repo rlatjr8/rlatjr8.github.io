@@ -23,23 +23,22 @@ entries:
     output: web, pdf
     folderitems:
     - title: Information menu
-      url: #
       output: web
       subfolderitems:
       - title: go naver
-        external_url: https://naver.com
+        url: /p1_sample4.html
         output: web, pdf
 
       - title: go daum
-        external_url: https://daum.net
+        url: /p1_sample4.html
         output: web, pdf
 
       - title: go nate
-        external_url: https://nate.com
+        url: /p1_sample4.html
         output: web, pdf
 
       - title: go google
-        external_url: https://google.co.kr
+        url: /p1_sample4.html
         output: web, pdf
 
   - title: other
