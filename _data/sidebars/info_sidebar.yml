@@ -6,15 +6,15 @@ entries:
   version: 1.0
   folders:
 
-  - title:
+  - title: " "
     output: pdf
     type: frontmatter
     folderitems:
-    - title:
+    - title: " "
       url: /titlepage.html
       output: pdf
       type: frontmatter
-    - title:
+    - title: " "
       url: /tocpage.html
       output: pdf
       type: frontmatter
@@ -37,7 +37,9 @@ entries:
         external_url: https://nate.com
         output: web, pdf
 
-      
+      - title: go google
+        external_url: https://google.co.kr
+        output: web, pdf
 
   - title: other
     output: web, pdf
