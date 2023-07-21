@@ -20,11 +20,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Getting Started
+  - title: Information
     output: web, pdf
     folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: Information home
+      url: /info
       output: web
 
     - title: Sample 1
