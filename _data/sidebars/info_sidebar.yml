@@ -19,45 +19,43 @@ entries:
       output: pdf
       type: frontmatter
 
-   - title: Information
+  - title: Information
+    output: web, pdf
+    folderitems:
+    - title: Information menu
+      output: web
+      subfolderitems:
+      - title: go naver
+        external_url: https://naver.com
+        output: web, pdf
+
+      - title: go daum
+        external_url: https://daum.net
+        output: web, pdf
+
+      - title: go nate
+        external_url: https://nate.com
+        output: web, pdf
+
+      
+
+  - title: other
+    output: web, pdf
+    folderitems:
+    - title: Sample 4
+      url: /p1_sample4.html
       output: web, pdf
-      folderitems:
-      - title: Information menu
-        output: web
-        subfolderitems:
-         - title: go naver
-           external_url: https://naver.com
-           output: web, pdf
 
-         - title: go daum
-           external_url: https://daum.net
-           output: web, pdf
-
-         - title: go nate
-           external_url: https://nate.com
-           output: web, pdf
-
-         - title: go google
-           external_url: https://google.co.kr
-           output: web, pdf
-
-    - title: other
+    - title: Sample 5
+      url: /p1_sample5.html
       output: web, pdf
-      folderitems:
-      - title: Sample 4
-        url: /p1_sample4.html
-        output: web, pdf
 
-      - title: Sample 5
-        url: /p1_sample5.html
-        output: web, pdf
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
 
-      - title: Sample 6
-        url: /p1_sample6.html
-        output: web, pdf
-
-      - title: Sample 7
-        url: /p1_sample7.html
-        output: web, pdf
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf
 
 # Copyright 2021 Google LLC
