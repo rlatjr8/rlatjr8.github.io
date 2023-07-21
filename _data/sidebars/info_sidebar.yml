@@ -24,7 +24,7 @@ entries:
     folderitems:
     - title: Information menu
       output: web
-      subfolderitems:
+      folderitems:
       - title: go naver
         url: /p1_sample4.html
         output: web, pdf
