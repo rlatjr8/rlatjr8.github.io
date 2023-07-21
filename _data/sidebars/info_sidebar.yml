@@ -1,6 +1,5 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
-
 entries:
 - title: Sidebar
   product: Info
@@ -38,11 +37,8 @@ entries:
         external_url: https://nate.com
         output: web, pdf
 
-
-
   - title: other
     output: web, pdf
-
     folderitems:
     - title: Sample 4
       url: /p1_sample4.html
