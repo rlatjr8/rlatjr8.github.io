@@ -23,6 +23,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Information menu
+      url: #
       output: web
       subfolderitems:
       - title: go naver
