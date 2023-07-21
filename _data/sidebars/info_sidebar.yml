@@ -25,17 +25,17 @@ entries:
     folderitems:
     - title: Information menu
       output: web
-     folderitems:	
+      folderitems:	
     - title: go naver
-      url: /p1_sample1.html
+      external_url: https://naver.com
       output: web, pdf
 
     - title: go daum
-      url: /p1_sample2.html
+      external_url: https://daum.net
       output: web, pdf
 
     - title: go nate
-      url: /p1_sample3.html
+      external_url: https://nate.com
       output: web, pdf
 
   - title: other
