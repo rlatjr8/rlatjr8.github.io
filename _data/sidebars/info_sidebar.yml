@@ -25,7 +25,7 @@ entries:
     folderitems:
     - title: Information menu
       output: web
-      folderitems:	
+      folderitems:
       - title: go naver
         external_url: https://naver.com
         output: web, pdf
@@ -38,9 +38,7 @@ entries:
         external_url: https://nate.com
         output: web, pdf
 
-      - title: go google
-        external_url: https://google.co.kr
-        output: web, pdf
+
 
   - title: other
     output: web, pdf
